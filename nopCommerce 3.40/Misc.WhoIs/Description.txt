@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: WhoIs Api
+SystemName: Misc.WhoIs
+Version: 1.01
+SupportedVersions: 3.40
+Author: Nop Content
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.WhoIs.dll
